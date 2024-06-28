@@ -2,6 +2,9 @@
 
 ## Descripción
 Este proyecto utiliza Bootstrap para el diseño y jQuery para la manipulación del DOM.
+Dejo también los enlaces al repositorio remoto en GitHub y la página creada en la misma plataforma:
+https://aeliasho.github.io/prueba_viajes_chile/
+https://github.com/aeliasho/prueba_viajes_chile.git
 
 ## Recursos Utilizados
 
