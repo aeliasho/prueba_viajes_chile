@@ -8,7 +8,7 @@ body {
     color: white;
   }
 
-.navbar-brand{ 
+.navbar-brand{ /* Utilicé esta clase para darle opacidad a la marca y aproveché de darle otros atributos*/
     width: 30px;
     font-size: 15px;
     font-weight: 200px;
@@ -16,18 +16,18 @@ body {
     opacity: 0.8;
   }
 
-.nav-link { 
+.nav-link { /* Utilicé esta modificación para darle una opacidad específica al los enlaces*/
     font-size: 15px;
     color: white;
     font-weight: 200px;
     opacity: 0.5;
 }
 
-#carouselExample img{ 
+#carouselExample img{ /*Utilicé este atributo para poder mejorar la tercera imagen del carrusel, pues no se veía la totalidad de ella*/
     height: 750px;
 }
 
-.favicon { 
+.favicon { /*Utilicé esta modificación para poder ordenar y gestionar el tamaño de los favicons del footer*/
     display: inline-block;
     width: 100%;
     text-align: center;
@@ -36,7 +36,7 @@ body {
     margin-top: 8px;
 }
 
-.textofooter { 
+.textofooter { /*Utilicé esta modificación para poder ordenar y gestionar el tamaño del nombre de la marca del footer*/
     font-size: 20px;
     color: white;
     font-weight: 200px;
